@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 /*style footer*/
 footer
@@ -50,4 +51,25 @@ header h1,header h2
 {
    text-align: center;
    color: white;
+=======
+.corps
+{
+display: flex;
+}
+main .corps .corps-content img
+{
+height: 25rem;
+width: 15 rem;
+}
+main .corps .corps-content 
+{
+
+width: 50%;
+}
+main .corps .item2 
+{
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+>>>>>>> corps
 }
