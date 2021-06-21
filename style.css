@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*style footer*/
 footer
 {
@@ -12,4 +13,42 @@ footer
 footer .footer-content-item
 {
     padding: 3rem;
+=======
+
+body,html
+{
+  
+   font-size: 16px;
+}
+/* Style Entête*/
+header
+{
+  
+    background: url(image/bg.jpeg)  no-repeat center ;
+    background-size: cover;
+    height: 50vh;
+}
+
+header nav ul
+{
+   list-style-type:none;
+   display: flex;
+   justify-content: end;
+}
+
+header nav ul li
+{
+   padding: 1rem;
+}
+header nav ul a
+{
+   text-decoration:none;
+   color: white;
+}
+
+header h1,header h2
+{
+   text-align: center;
+   color: white;
+>>>>>>> entete
 }
