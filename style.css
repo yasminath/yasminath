@@ -1,0 +1,15 @@
+/*style footer*/
+footer
+{
+  height: 30vh;
+  background-color:  rgb(208, 205, 219);
+}
+.flexbox
+{
+    display: flex;
+    justify-content: center;
+}
+footer .footer-content-item
+{
+    padding: 3rem;
+}
